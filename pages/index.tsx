@@ -29,7 +29,7 @@ export default function Home() {
         type="text"
         value={typeformOutput}
         onChange={e => setTypeformOutput(e.target.value)}
-        placeholder="Paste Typeform response here..."
+        placeholder="Paste the Typeform response here..."
       />
       <button onClick={handleSubmit}>Submit</button>
       {loading && <div>Processing...</div>}
