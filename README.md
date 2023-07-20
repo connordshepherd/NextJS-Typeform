@@ -6,7 +6,7 @@ Takes a Typeform questionnaire as an input. Based on the answers, builds a profi
 
 ## Example output
 
-Subject: Your Mosaic Care Plan
+**Subject: Your Mosaic Care Plan**
 
 Dear Adam,
 
@@ -22,7 +22,7 @@ Sincerely,
 Mosaic Care Team
 
 
-*Reading List for Customer Searching for Articles About Memory Care for Individuals Experiencing Confusion and Anger Without a Diagnosis and with a Budget of $1,000-2,000 Supported by Medicare:*
+**Reading List for Customer Searching for Articles About Memory Care for Individuals Experiencing Confusion and Anger Without a Diagnosis and with a Budget of $1,000-2,000 Supported by Medicare:**
 
 1. Title: "How Do I Pay for Memory Care?"
 Site_url: https://mosaic-solutions.co/blog/how-do-i-pay-for-memory-care
@@ -46,7 +46,7 @@ Desc: This article discusses the signs that indicate it may be time for a loved 
 
 Note: All of these articles are relevant for individuals with memory problems who prefer care in their home or an adult day care center, and fall within the customer's budget range.
 
-*Shortlist of Providers to Research:*
+**Shortlist of Providers to Research:**
 
 1) The Ivey Memory Wellness Day Center - This provider offers adult day care programs designed to optimize brain health for aging well, promote memory wellness, and provide respite and education for the whole family, which could be particularly helpful for those experiencing confusion and anger due to memory problems. They have a rating of 4.8 and are located at 6030 Park S Dr, Charlotte, NC 28210, USA.
 
