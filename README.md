@@ -2,7 +2,7 @@ Created for Mosaic (mosaic-solutions.co). Mosaic provides tailored care solution
 
 ## What it does
 
-Takes a Typeform questionnaire as an input. Based on the answers, builds a profile with a reading list of articles from the proprietary Mosaic knowledge base and includes referral links to memory care providers (adult home care, adult day care, full residential facilities). It outputs the care plan as an email.
+Takes a Typeform questionnaire as an input. Based on the answers, builds a profile with a reading list of articles from the proprietary Mosaic knowledge base and includes referral information for memory care providers (adult home care, adult day care, full residential facilities). It outputs the care plan as an email.
 
 ## Example output
 
@@ -24,24 +24,19 @@ Mosaic Care Team
 
 **Reading List for Customer Searching for Articles About Memory Care for Individuals Experiencing Confusion and Anger Without a Diagnosis and with a Budget of $1,000-2,000 Supported by Medicare:**
 
-1. Title: "How Do I Pay for Memory Care?"
-Site_url: https://mosaic-solutions.co/blog/how-do-i-pay-for-memory-care
+1. Title: "How Do I Pay for Memory Care?" (https://mosaic-solutions.co/blog/how-do-i-pay-for-memory-care)
 Desc: This article discusses the cost of memory care for seniors with memory impairment, and how caregivers can pay for it through Medicare and other means.
 
-2. Title: "Financial Assistance Options for Alzheimer's Care"
-Site_url: https://mosaic-solutions.co/blog/financial-assistance-options-for-alzheimers-care
+2. Title: "Financial Assistance Options for Alzheimer's Care" (https://mosaic-solutions.co/blog/financial-assistance-options-for-alzheimers-care)
 Desc: This article covers the different financial assistance options available for Alzheimer's care, including Medicaid and Medicare.
 
-3. Title: "VA Programs That Are Most Helpful for Memory Care Needs"
-Site_url: https://mosaic-solutions.co/blog/va-programs-that-are-most-helpful-for-memory-care-needs
+3. Title: "VA Programs That Are Most Helpful for Memory Care Needs" (https://mosaic-solutions.co/blog/va-programs-that-are-most-helpful-for-memory-care-needs)
 Desc: This article discusses the various VA programs that can provide support for veterans with dementia, such as community aid agencies and home improvement grants.
 
-4. Title: "Other Ways to Pay for Memory Care"
-Site_url: https://mosaic-solutions.co/blog/other-ways-to-pay-for-memory-care
+4. Title: "Other Ways to Pay for Memory Care" (https://mosaic-solutions.co/blog/other-ways-to-pay-for-memory-care)
 Desc: This article details additional funding options available for those struggling to afford memory care, including Social Security Disability Insurance and personal loans.
 
-5. Title: "How Do I Know When It’s Time for Memory Care?"
-Site_url: https://mosaic-solutions.co/blog/how-do-i-know-when-its-time-for-memory-care
+5. Title: "How Do I Know When It’s Time for Memory Care?" (https://mosaic-solutions.co/blog/how-do-i-know-when-its-time-for-memory-care)
 Desc: This article discusses the signs that indicate it may be time for a loved one to transition to professional memory care, and what families can expect from such care.
 
 Note: All of these articles are relevant for individuals with memory problems who prefer care in their home or an adult day care center, and fall within the customer's budget range.
